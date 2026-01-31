@@ -23,7 +23,7 @@ through interactive code and visual constructs.
 
 ### DeSalesU - Centralized Student Information Application
 DeSalesU is a Java-based application that centralizes student information
-such as course schedues, grades, and dining services into a single interface.
+such as course schedules, grades, and dining services into a single interface.
 Developed in a Java Object-Oriented Programming course, the project emphasizes
 modular design, data integration, and user-focused software architecture.
 
@@ -37,5 +37,6 @@ modular design, data integration, and user-focused software architecture.
     allowfullscreen>
   </iframe>
 </div>
-  
-- Demo Video
+
+*Note: Recording preserves original application window dimensions.
+Viewing at 720p provides the clearest presentation.*
