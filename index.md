@@ -29,7 +29,7 @@ modular design, data integration, and user-focused software architecture.
 
 <div style="text-align:center;">
   <iframe width="720" height="405"
-    src="https://www.youtube.com/embed/KYAEUXhLRzE?si=SFexp3ONa3qql2_v"
+    src="https://www.youtube.com/embed/KYAEUXhLRzE?vq=hd720"
     title="DeSalesU Demo"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
