@@ -18,6 +18,10 @@ understand how high-level code affects machine-level behavior. It prioritizes
 learning abstract systems concepts, such as control flow, memory, and execution,
 through interactive code and visual constructs.
 
+This project is being evaluated for inclusion as a micro-lab component in future
+coursework at DeSales University, supporting instruction in systems and programming
+related topics.
+
 *(Individual project / Independent study - Compiler Design and Pedagogical Toolchain)*
 
 - Paper: (link coming soon)
