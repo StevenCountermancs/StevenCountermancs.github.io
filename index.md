@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Steven Counterman
 **Computer Science – Project Portfolio**
 
