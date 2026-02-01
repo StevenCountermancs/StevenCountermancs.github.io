@@ -2,13 +2,30 @@
 layout: none
 ---
 
+<nav style="display:flex; gap:16px; padding:12px 0; border-bottom:1px solid #ddd;">
+  <a href="#about">About Me</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#resume">CV/Resume</a>
+</nav>
+
 # Steven Counterman
 **Computer Science – Project Portfolio**
 
+<section id="about"></section>
+
+## About Me
 Selected academic and independent projects demonstrating applied systems
 development and software engineering.
 
----
+<section id="skills"></section>
+
+## Skills
+- Languages: C++, Python, Java, C#, SQL
+- Focus: Systems, compilers, networking/security, backend development
+- Tools: Git/GitHub, Linux, Docker (if applicable), VS Code, etc.
+
+<section id="projects"></section>
 
 ## Projects
 
@@ -48,3 +65,9 @@ modular design, data integration, and user-focused software architecture.
 
 *Note: Recording preserves original application window dimensions.
 Viewing at 720p provides the clearest presentation.*
+
+<section id="resume"></section>
+
+## CV / Resume
+- Resume (PDF): [Download](resume.pdf)
+- CV (PDF): [Download](cv.pdf)
