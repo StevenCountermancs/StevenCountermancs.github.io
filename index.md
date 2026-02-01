@@ -1,5 +1,6 @@
 ---
 layout: none
+title: About Me
 ---
 
 <nav style="display:flex; gap:16px; padding:12px 0; border-bottom:1px solid #ddd;">
@@ -10,14 +11,14 @@ layout: none
 </nav>
 
 # Steven Counterman
-**Computer Science – Project Portfolio**
-
-<section id="about"></section>
 
 ## About Me
-Selected academic and independent projects demonstrating applied systems
-development and software engineering.
+I am a Computer Science student at DeSales University with a strong interest in
+systems programming, software architecture, and visualization of abstract concepts
+throughout the discipline. My academic work emphasizes building a deep understanding
+of underlying systems rather than treating software as a black box.
 
-## CV / Resume
-- Resume (PDF): [Download](resume.pdf)
-- CV (PDF): [Download](cv.pdf)
+Through coursework and independent study, I have developed projects in areas such as
+compiler tooling, networking and security design, and backend application development.
+I am particularly interested in creating education and developer-facing tools that make
+complex system concepts more accessible and intuitive.
