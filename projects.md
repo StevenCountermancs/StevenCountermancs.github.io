@@ -12,15 +12,6 @@ title: Projects
 
 # Projects
 
-<nav style="display:flex; gap:16px; padding:12px 0; border-bottom:1px solid #ddd;">
-  <a href="#about">About Me</a>
-  <a href="#skills">Skills</a>
-  <a href="#projects">Projects</a>
-  <a href="#resume">CV/Resume</a>
-</nav>
-
-# Projects
-
 ### MetASM – Pedagogical Systems Development Environment
 MetASM is a pedagogical development environment designed to help students
 understand how high-level code affects machine-level behavior. It prioritizes
@@ -57,3 +48,17 @@ modular design, data integration, and user-focused software architecture.
 
 *Note: Recording preserves original application window dimensions.
 Viewing at 720p provides the clearest presentation.*
+
+---
+
+### Corporation Tech - Network Security & Enterprise Network Design (CS-416)
+Designed a secure enterprise network architecure using layered security
+principles, including VLAN segmentation, firewall policy design, and a 
+DMZ to isolate public-facing services.
+
+Key elements included a hierarchical star topology with redundant core/distribution
+components, availability planning, and secure remote access recommendations (SSL VPN
+vs IPSec). :contentReference[oaicite:1]{index=1}
+
+- Report (PDF): [Network Design & Security Report](Network_Design_Security_CS416.pdf)
+
