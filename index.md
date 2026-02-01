@@ -10,7 +10,6 @@ title: About Me
   <a href="{{ '/resume.html' | relative_url }}">CV / Resume</a>
 </nav>
 
-
 # Steven Counterman
 
 ## About Me
