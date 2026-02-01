@@ -58,7 +58,7 @@ DMZ to isolate public-facing services.
 
 Key elements included a hierarchical star topology with redundant core/distribution
 components, availability planning, and secure remote access recommendations (SSL VPN
-vs IPSec). :contentReference[oaicite:1]{index=1}
+vs IPSec).
 
 - Report (PDF): [Network Design & Security Report](Network_Design_Security_CS416.pdf)
 
