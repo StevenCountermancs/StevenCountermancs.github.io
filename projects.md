@@ -24,7 +24,7 @@ related topics.
 
 *(Individual project / Independent study - Compiler Design and Pedagogical Toolchain)*
 
-- Paper: (link coming soon)
+- PACISE Paper Submission (PDF): <a href="rosettASM_paper.pdf" target="_blank">RosettASM Research Paper</a>
 - Demo Video: (link coming soon)
 
 ---
