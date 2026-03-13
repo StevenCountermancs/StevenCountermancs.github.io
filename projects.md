@@ -12,8 +12,8 @@ title: Projects
 
 # Projects
 
-### MetASM – Pedagogical Systems Development Environment
-MetASM is a pedagogical development environment designed to help students
+### RosettASM – Pedagogical Systems Development Environment
+RosettASM is a pedagogical development environment designed to help students
 understand how high-level code affects machine-level behavior. It prioritizes
 learning abstract systems concepts, such as control flow, memory, and execution,
 through interactive code and visual constructs.
