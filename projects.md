@@ -13,19 +13,53 @@ title: Projects
 # Projects
 
 ### RosettASM – Pedagogical Systems Development Environment
-RosettASM is a pedagogical development environment designed to help students
-understand how high-level code affects machine-level behavior. It prioritizes
-learning abstract systems concepts, such as control flow, memory, and execution,
-through interactive code and visual constructs.
+RosettASM is a pedagogical systems visualization environment designed to help
+students build accurate mental models of machine-level execution through interactive
+execution tracing and assembly mapping.
 
-This project is being evaluated for inclusion as a micro-lab component in future
-coursework at DeSales University, supporting instruction in systems and programming
-related topics.
+The system includes a custom compiler pipeline targeting x86-32 assembly, along with
+visualizations for registers, memory, stack state, control flow, and source-to-assembly
+mappings to make runtime behavior observable for learning and debugging.
 
-*(Individual project / Independent study - Compiler Design and Pedagogical Toolchain)*
+Research on RosettASM was accepted, presented, and published at PACISE 2026, and the
+project is currently being evaluated for instructional integration into university
+coursework at DeSales University.
 
-- PACISE Paper Submission (PDF): <a href="rosettASM_paper.pdf" target="_blank">RosettASM Research Paper</a>
-- Demo Video: (link coming soon)
+*(Individual project / Independent study - Compiler Design & Educational Tooling)*
+
+- Research Paper (PDF): <a href="rosettASM_paper.pdf" target="_blank">RosettASM Research Paper</a>
+- GitHub Repository: <a href="https://github.com/StevenCountermancs/rosettasm" target="_blank">github.com/StevenCountermancs/rosettasm</a>
+
+---
+
+### Code Jam - Programming Competition Platform
+
+Served as team lead and systems integrator for a full-stack programming
+competition platform developed as a senior coordinating seminar project.
+
+Responsibilities included frontend development, deployment, cross-service
+integration, and infrastructure troubleshooting across an ASP.NET frontend,
+Python execution service, PostgreSQL database, Docker environment, and Apache
+reverse proxy deployment.
+
+The platform was successfully deployed for use in a university-hosted coding
+competition environment.
+
+---
+
+### Project Workflow Manager - Agile Project Management System
+
+Project Workflow Manager is a lightweight workflow and scheduling platform
+designed to help student software engineering teams organize projects,
+sprints, phases, assignments, and development timelines.
+
+The system applies Agile/Scrum development principles and includes support
+for project phase management, scheduling, worker assignments, and visual
+workflow organization.
+
+The project has been selected for continued use and deployment in future
+Software Engineering and Senior Coordinating Seminar coursework at DeSales
+University.
 
 ---
 
