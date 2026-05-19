@@ -12,7 +12,7 @@ title: Projects
 
 # Projects
 
-### RosettASM – Pedagogical Systems Development Environment
+### RosettASM – Interactive Program Execution Visualization System
 RosettASM is a pedagogical systems visualization environment designed to help
 students build accurate mental models of machine-level execution through interactive
 execution tracing and assembly mapping.
